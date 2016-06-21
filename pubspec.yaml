@@ -8,7 +8,11 @@ dependencies:
   browser: ^0.10.0
   dart_to_js_script_rewriter: ^1.0.1
   logging: ^0.11.3
+  bootstrap: 3.3.4
 transformers:
 - angular2:
     entry_points: web/main.dart
 - dart_to_js_script_rewriter
+- bootstrap:
+    url: //maxcdn.bootstrapcdn.com/bootstrap/{{version}}
+    version: 3.3.4
