@@ -1,0 +1,19 @@
+{
+  "name": "ng2-taks-manager",
+  "version": "1.0.0",
+  "description": "1. Clone this repo.\r 2. Download the dependencies:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharikovvladislav/angular2-task-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharikovvladislav/angular2-task-manager/issues"
+  },
+  "homepage": "https://github.com/sharikovvladislav/angular2-task-manager#readme"
+}
