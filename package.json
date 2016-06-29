@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sharikovvladislav/angular2-task-manager/issues"
   },
-  "homepage": "https://github.com/sharikovvladislav/angular2-task-manager#readme"
+  "homepage": "https://github.com/sharikovvladislav/angular2-task-manager#readme",
+  "dependencies": {
+    "dragula": "^3.7.1",
+    "ng2-dnd": "^1.8.2",
+    "ng2-dragula": "^1.1.10"
+  }
 }
