@@ -1,11 +1,7 @@
 1. Clone this repo.
-2. Download the dependencies:
+2. Download the dependencies: `pub get`
 
-  `pub get`
-
-3. Launch a development server:
-
-  `pub serve`
+3. Launch a development server: `pub serve`
 
 4. Open a browser to `http://localhost:8080`.<br/>
   In Dartium, you'll see the app right away. In other modern browsers,
